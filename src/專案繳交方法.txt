@@ -1,0 +1,13 @@
+專案(Project)繳交方式
+
+只需繳交Project資料夾，不需要整個Workspace
+
+1. 先在檔案總管中開啟Workspace資料夾
+2. 在"fju-java1-final"專案資料夾上按右鍵，選擇壓縮(預設rar即可)
+3. 撰寫Email:
+    收件者: hanktom.fju@gmail.com
+   主旨: 期末考繳交-學號-姓名  
+   內文可以省略，但要將第2步驟的壓縮檔附檔在Email中
+4. 寄出信件
+
+建議以Gmail傳送與繳交
